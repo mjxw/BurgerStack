@@ -1,8 +1,3 @@
-/*
- * Matthew Wu
- * TCSS 342
- * Baron Burger 
- */
 package model;
 
 import java.awt.EventQueue;
